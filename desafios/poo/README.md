@@ -48,4 +48,6 @@ classDiagram
 
 Implementar as classes e interfaces correspondentes em Java.
 
-### 
+### Resultado
+
+Vá para o código da implementação das classes em java clicando aqui -> [Classe iPhone](https://github.com/Guxlhrm/trilha-java-basico/blob/main/desafios/poo/iphone_java/Main/src/iPhone.java) e [Classe Main](https://github.com/Guxlhrm/trilha-java-basico/blob/main/desafios/poo/iphone_java/Main/src/Main.java)
